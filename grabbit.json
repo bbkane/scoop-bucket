@@ -1,0 +1,12 @@
+{
+    "version": "4.2.13",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/bbkane/grabbit/releases/download/v4.2.13/grabbit_4.2.13_windows_amd64.tar.gz",
+            "bin": [
+                "grabbit.exe"
+            ],
+            "hash": "71918b03062b1c52d78fa2de62e9c4c9bc7f1cbc2340ed37d492940fe65b5d1e"
+        }
+    }
+}
