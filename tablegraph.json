@@ -1,12 +1,12 @@
 {
-    "version": "0.0.3",
+    "version": "0.0.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bbkane/tablegraph/releases/download/v0.0.3/tablegraph_0.0.3_windows_amd64.tar.gz",
+            "url": "https://github.com/bbkane/tablegraph/releases/download/v0.0.4/tablegraph_0.0.4_windows_amd64.tar.gz",
             "bin": [
                 "tablegraph.exe"
             ],
-            "hash": "d6981b5a21d56fe4d9b8fa84ed935eb567715e937de0f8a64f3ef7cd2fa8e1e4"
+            "hash": "267412c5c34ffd5363d2ce9593e659b4a7f3258ddfcd67d90e4612cac73f3cf4"
         }
     },
     "homepage": "https://github.com/bbkane/tablegraph",
