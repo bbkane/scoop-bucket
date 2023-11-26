@@ -1,12 +1,19 @@
 {
-    "version": "0.0.18",
+    "version": "0.0.19",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bbkane/fling/releases/download/v0.0.18/fling_0.0.18_windows_amd64.tar.gz",
+            "url": "https://github.com/bbkane/fling/releases/download/v0.0.19/fling_0.0.19_windows_amd64.tar.gz",
             "bin": [
                 "fling.exe"
             ],
-            "hash": "02606e0290a53d1051e1bfc9898c107be8ab25d0f575fe8add76347f01ab7529"
+            "hash": "0deb8601db8a370f74f1da461a71ef4b93a48525da5659d9687ecf7eb30284a2"
+        },
+        "arm64": {
+            "url": "https://github.com/bbkane/fling/releases/download/v0.0.19/fling_0.0.19_windows_arm64.tar.gz",
+            "bin": [
+                "fling.exe"
+            ],
+            "hash": "375ddc825cdde6c11d36ce387648b7e6957eb7b316fbecab12dd749ec3e27da1"
         }
     },
     "homepage": "https://github.com/bbkane/fling",
