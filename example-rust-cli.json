@@ -1,12 +1,12 @@
 {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bbkane/example-rust-cli/releases/download/v0.1.4/example-rust-cli_Windows_x86_64.zip",
+            "url": "https://github.com/bbkane/example-rust-cli/releases/download/v0.1.5/example-rust-cli_Windows_x86_64.zip",
             "bin": [
                 "example-rust-cli.exe"
             ],
-            "hash": "96610874bf0b2fb8398807e0696ab632030fdab1e83c7fee6a35063d6e3500c5"
+            "hash": "d0a14d8d3545bb29729022be97478c7aa920feec3614a361697762ea7118f745"
         }
     },
     "homepage": "https://github.com/bbkane/example-rust-cli",
